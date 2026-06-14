@@ -1,16 +1,130 @@
 ## 권수연 (Sooyeon Kweon)
 
-<!--
-**KSY173/KSY173** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Tech Stack
 
-Here are some ideas to get you started:
+<!-- Language -->
+<p>
+  <img src="https://img.shields.io/badge/LANGUAGE-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LANGUAGE-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LANGUAGE-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Embedded -->
+<p>
+  <img src="https://img.shields.io/badge/EMBEDDED-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EMBEDDED-STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EMBEDDED-Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+</p>
+
+<!-- Robotics / Middleware -->
+<p>
+  <img src="https://img.shields.io/badge/ROBOTICS-ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+</p>
+
+<!-- AI / Computer Vision -->
+<p>
+  <img src="https://img.shields.io/badge/AI-YOLO-00FFFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VISION-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
+
+<!-- Database -->
+<p>
+  <img src="https://img.shields.io/badge/DATABASE-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+
+<!-- OS -->
+<p>
+  <img src="https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+---
+
+## 💼 Key Experiences & Projects
+
+### Experience
+
+#### [Experience Title]
+
+* Period: YYYY.MM ~ YYYY.MM
+* Role:
+* ## Description:
+
+  *
+  *
+
+<br/>
+
+### Projects
+
+#### 1. [Project Name](https://github.com/YOUR_GITHUB_ID/REPOSITORY_NAME)
+
+* Period: YYYY.MM ~ YYYY.MM
+* Tech Stack:
+* ## Description:
+
+  *
+  *
+
+#### 2. [Project Name](https://github.com/YOUR_GITHUB_ID/REPOSITORY_NAME)
+
+* Period: YYYY.MM ~ YYYY.MM
+* Tech Stack:
+* ## Description:
+
+  *
+  *
+
+#### 3. [Project Name](https://github.com/YOUR_GITHUB_ID/REPOSITORY_NAME)
+
+* Period: YYYY.MM ~ YYYY.MM
+* Tech Stack:
+* ## Description:
+
+  *
+  *
+
+#### 4. [Project Name](https://github.com/YOUR_GITHUB_ID/REPOSITORY_NAME)
+
+* Period: YYYY.MM ~ YYYY.MM
+* Tech Stack:
+* ## Description:
+
+  *
+  *
+
+#### 5. [Project Name](https://github.com/YOUR_GITHUB_ID/REPOSITORY_NAME)
+
+* Period: YYYY.MM ~ YYYY.MM
+* Tech Stack:
+* ## Description:
+
+  *
+  *
+
+---
+
+## 🎓 Education & Certifications
+
+### Education
+
+#### 숙명여자대학교 (Sookmyung Women's University)
+
+* Major: 전자공학 심화전공 Electronic Engineering
+* Period: 2022.03 ~ 2026.08(졸업 예정)
+
+#### 대한상공회의소 서울기술교육 센터 (KCCI Seoul Technology Education Center)
+* AI융합 로봇 SW 개발자 교육과정 (AI Convergence Robotics Software Developer Program)
+* Period: 2025.12 ~ 2026.07
+
+<br/>
+
+### Certifications
+
+* OPIc: IH / 2026.06
+  
+---
+
+## 📫 Contact
+
+* Email: sooyeonkweon01@gmail.com
+* GitHub: https://github.com/KSY173
