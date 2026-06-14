@@ -1,4 +1,4 @@
-## 안녕하세요,
+## 권수연 (Sooyeon Kweon)
 
 <!--
 **KSY173/KSY173** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
