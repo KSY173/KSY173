@@ -1,6 +1,6 @@
-## 권수연 (Sooyeon Kweon)
+![header](https://capsule-render.vercel.app/api?type=wavving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
-## 🛠 Tech Stack
+## 권수연 (Sooyeon Kweon)
 
 ## 🛠 Tech Stack
 
