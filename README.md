@@ -6,13 +6,11 @@
 
 <table>
 
-  <tr>
 
     <th>Category</th>
 
     <th>Tech Stack</th>
 
-  </tr>
 
 
 
