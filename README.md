@@ -50,7 +50,7 @@
 | No. | Project                                                                                                        | Period                  | Tech Stack | Description |
 | --- | -------------------------------------------------------------------------------------------------------------- | ----------------------- | ---------- | ----------- |
 | 1   | **[Smart Road Management System](https://github.com/KSY173/Project-Smart_Road_Management_System)**             | 2026.03.06 ~ 2026.03.21 |            | - <br/> -   |
-| 2   | **[Smart Life Vest](https://github.com/KSY173/Project-Smart_Life_Vest)**                                       | 2025.09 ~ 2025.12       |            | - <br/> -   |
+| 2   | **[Smart Life Vest](https://github.com/KSY173/Project-Smart_Life_Vest)**                                       | 2025.10 ~ 2025.12       |            | - <br/> -   |
 | 3   | **[STM32 Smart Farm System](https://github.com/KSY173/Project-STM32_SmartFarm_System)**                        | 2026.04.03 ~ 2026.04.13 |            | - <br/> -   |
 | 4   | **[TurtleBot3 YOLO OCR Vision Control](https://github.com/KSY173/MiniProject-TurtleBot_AI_Vision)**            | 2026.05.13 ~ 2026.05.14 |            | - <br/> -   |
 | 5   | **[PLC MPS Automated Storage System](https://github.com/KSY173/MiniProject-PLC_MPS_Automated_Storage_System)** | 2026.02.04 ~ 2026.02.09 |            | - <br/> -   |
