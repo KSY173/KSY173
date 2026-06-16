@@ -56,45 +56,45 @@
 
 ### Projects
 
-#### 1. [Project Name](https://github.com/YOUR_GITHUB_ID/REPOSITORY_NAME)
+#### 1. [AI based Road Management System](https://github.com/KSY173/Project-Smart_Road_Management_System)
 
-* Period: YYYY.MM ~ YYYY.MM
+* Period: 2026.03.06 ~ 2026.03.21
 * Tech Stack:
 * ## Description:
 
   *
   *
 
-#### 2. [Project Name](https://github.com/YOUR_GITHUB_ID/REPOSITORY_NAME)
+#### 2. [Smart Life Vest](https://github.com/KSY173/Project-Smart_Life_Vest)
 
-* Period: YYYY.MM ~ YYYY.MM
+* Period: 2025.09 ~ 2025.12
 * Tech Stack:
 * ## Description:
 
   *
   *
 
-#### 3. [Project Name](https://github.com/YOUR_GITHUB_ID/REPOSITORY_NAME)
+#### 3. [STM32 Smart Farm System](https://github.com/KSY173/Project-STM32_SmartFarm_System)
 
-* Period: YYYY.MM ~ YYYY.MM
+* Period: 2026.04.03 ~ 2026.04.13
 * Tech Stack:
 * ## Description:
 
   *
   *
 
-#### 4. [Project Name](https://github.com/YOUR_GITHUB_ID/REPOSITORY_NAME)
+#### 4. [TurtleBot3 YOLO OCR Vision Control](https://github.com/KSY173/MiniProject-TurtleBot_AI_Vision)
 
-* Period: YYYY.MM ~ YYYY.MM
+* Period: 2026.05.13 ~ 2026.05.14
 * Tech Stack:
 * ## Description:
 
   *
   *
 
-#### 5. [Project Name](https://github.com/YOUR_GITHUB_ID/REPOSITORY_NAME)
+#### 5. [PLC_MPS_Automated_Storage_System](https://github.com/KSY173/MiniProject-PLC_MPS_Automated_Storage_System)
 
-* Period: YYYY.MM ~ YYYY.MM
+* Period: 2026.02.04 ~ 2026.02.09
 * Tech Stack:
 * ## Description:
 
