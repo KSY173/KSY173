@@ -22,7 +22,7 @@
 
 | Institution                                                       | Program / Major                                                              | Period               |
 | ----------------------------------------------------------------- | ---------------------------------------------------------------------------- | -------------------- |
-| **숙명여자대학교** <br/> Sookmyung Women's University                    | 전자공학 심화전공 <br/> Electronics Engineering                                      | 2022.03 ~ 2026.08 예정 |
+| **숙명여자대학교** <br/> Sookmyung Women's University                    | 전자공학 심화전공 <br/> Electronics Engineering                                      | 2022.03 ~ 2026.08 |
 | **대한상공회의소 서울기술교육센터** <br/> KCCI Seoul Technology Education Center | AI융합 로봇 SW 개발자 교육과정 <br/> AI Convergence Robotics Software Developer Program | 2025.12 ~ 2026.07    |
 
 <br/>
