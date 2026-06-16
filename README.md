@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving\&color=auto\&height=300\&section=header\&text=Sooyeon%20Kweon\&fontSize=90)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Sooyeon%20Kweon&fontSize=90" />
+</p>
+
 
 ## 권수연 (Sooyeon Kweon)
 
