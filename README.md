@@ -52,8 +52,6 @@
 * AI융합 로봇 SW 개발자 교육과정 (AI Convergence Robotics Software Developer Program)
 * Period: 2025.12 ~ 2026.07
 
-<br/>
-
 ### Certifications
 
 * OPIc: IH / 2026.06
