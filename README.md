@@ -109,7 +109,7 @@
 
 #### 숙명여자대학교 (Sookmyung Women's University)
 
-* Major: 전자공학 심화전공 Electronic Engineering
+* Major: 전자공학 심화전공 Electronics Engineering
 * Period: 2022.03 ~ 2026.08(졸업 예정)
 
 #### 대한상공회의소 서울기술교육 센터 (KCCI Seoul Technology Education Center)
