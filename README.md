@@ -39,6 +39,27 @@
 
 ---
 
+## 🎓 Education & Certifications
+
+### Education
+
+#### 숙명여자대학교 (Sookmyung Women's University)
+
+* Major: 전자공학 심화전공 Electronics Engineering
+* Period: 2022.03 ~ 2026.08(졸업 예정)
+
+#### 대한상공회의소 서울기술교육 센터 (KCCI Seoul Technology Education Center)
+* AI융합 로봇 SW 개발자 교육과정 (AI Convergence Robotics Software Developer Program)
+* Period: 2025.12 ~ 2026.07
+
+<br/>
+
+### Certifications
+
+* OPIc: IH / 2026.06
+
+---
+
 ## 💼 Key Experiences & Projects
 
 ### Experience
@@ -100,27 +121,6 @@
 
   *
   *
-
----
-
-## 🎓 Education & Certifications
-
-### Education
-
-#### 숙명여자대학교 (Sookmyung Women's University)
-
-* Major: 전자공학 심화전공 Electronics Engineering
-* Period: 2022.03 ~ 2026.08(졸업 예정)
-
-#### 대한상공회의소 서울기술교육 센터 (KCCI Seoul Technology Education Center)
-* AI융합 로봇 SW 개발자 교육과정 (AI Convergence Robotics Software Developer Program)
-* Period: 2025.12 ~ 2026.07
-
-<br/>
-
-### Certifications
-
-* OPIc: IH / 2026.06
   
 ---
 
