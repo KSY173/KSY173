@@ -2,111 +2,17 @@
 
 ## 🛠 Tech Stack
 
+## 🛠 Tech Stack
 
+| Category                  | Tech Stack                                                                                                                                                                                                                                                                                                                                                                               |
+| ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Language**              | <img src="https://img.shields.io/badge/LANGUAGE-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/LANGUAGE-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/LANGUAGE-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>                                 |
+| **Embedded**              | <img src="https://img.shields.io/badge/EMBEDDED-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/EMBEDDED-STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/EMBEDDED-Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/> |
+| **Robotics / Middleware** | <img src="https://img.shields.io/badge/ROBOTICS-ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>                                                                                                                                                                                                                                                                              |
+| **AI / Computer Vision**  | <img src="https://img.shields.io/badge/AI-YOLO-00FFFF?style=for-the-badge"/> <br/> <img src="https://img.shields.io/badge/VISION-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>                                                                                                                                                                                        |
+| **Database**              | <img src="https://img.shields.io/badge/DATABASE-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>                                                                                                                                                                                                                                                                         |
+| **OS**                    | <img src="https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>                                                                                                                                                                                                                                                                                 |
 
-<table>
-
-
-    <th>Category</th>
-
-    <th>Tech Stack</th>
-
-
-
-
-  <tr>
-
-    <td><b>Language</b></td>
-
-    <td>
-
-      <img src="https://img.shields.io/badge/LANGUAGE-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
-
-      <img src="https://img.shields.io/badge/LANGUAGE-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-
-      <img src="https://img.shields.io/badge/LANGUAGE-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-    </td>
-
-  </tr>
-
-
-
-  <tr>
-
-    <td><b>Embedded</b></td>
-
-    <td>
-
-      <img src="https://img.shields.io/badge/EMBEDDED-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-
-      <img src="https://img.shields.io/badge/EMBEDDED-STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
-
-      <img src="https://img.shields.io/badge/EMBEDDED-Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-
-    </td>
-
-  </tr>
-
-
-
-  <tr>
-
-    <td><b>Robotics / Middleware</b></td>
-
-    <td>
-
-      <img src="https://img.shields.io/badge/ROBOTICS-ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
-
-    </td>
-
-  </tr>
-
-
-
-  <tr>
-
-    <td><b>AI / Computer Vision</b></td>
-
-    <td>
-
-      <img src="https://img.shields.io/badge/AI-YOLO-00FFFF?style=for-the-badge"/>
-
-      <img src="https://img.shields.io/badge/VISION-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-
-    </td>
-
-  </tr>
-
-
-
-  <tr>
-
-    <td><b>Database</b></td>
-
-    <td>
-
-      <img src="https://img.shields.io/badge/DATABASE-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-
-    </td>
-
-  </tr>
-
-
-
-  <tr>
-
-    <td><b>OS</b></td>
-
-    <td>
-
-      <img src="https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-    </td>
-
-  </tr>
-
-</table>
 
 ---
 
