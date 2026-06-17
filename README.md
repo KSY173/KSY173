@@ -43,8 +43,6 @@
 | ---------------------- | ----------------- | ---- | 
 | **Walt Disney World Resort(FL, USA)** | 2024.07 ~ 2025.01 | F&B, Attractions Intern |
 
-<br/>
-
 ### Projects
 
 | No. | Project                                                                                                        | Period                  | Tech Stack | Description |
