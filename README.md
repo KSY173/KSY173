@@ -41,7 +41,7 @@
 
 | Experience             | Period            | Role | 
 | ---------------------- | ----------------- | ---- | 
-| **Walt Disney World Resort** | 2024.07 ~ 2025.01 | F&B, Attractions Intern |
+| **Walt Disney World Resort(FL, USA)** | 2024.07 ~ 2025.01 | F&B, Attractions Intern |
 
 <br/>
 
